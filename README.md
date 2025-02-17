@@ -1,3 +1,4 @@
-# perfumes-api
-J. PERFUMES MENS &amp; WOMENS API PRODUCTS
-![Image](https://github.com/user-attachments/assets/0a78a252-88a1-4fad-bbff-8be012a1ab8b)
+# multiple-products-api
+FETCHING MULTIPLE PRODUCTS API
+![Image]()![ss](https://github.com/user-attachments/assets/34a2a620-66a1-49ed-b4ec-9be1076b1814)
+
